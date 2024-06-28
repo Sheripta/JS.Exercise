@@ -1,22 +1,28 @@
 console.log("Hello,World")
+
 alert("Javacscript is connected")
+
   document.write("Welcome to Javacscript")
+
  console.log("Welcome to Javacscript")
+
  alert("Welcome to Javacscript")
  
 // JS syntax
 
-//  let x = 10;
-//  if (x>5) {
-//     console.log("x is geater than 5");
-//  }
+  let x = 10;
+  if (x>5) {
+    console.log("x is geater than 5");
+ }
+else {
+    console.log("x is not geater than 5");
+ }
 
 // Variables
- const studentInfo={
- firstname:"Jhon",
-  lastname:"Doe",
-  age:25,
- }
+let name="John";
+let age=25;
+console.log('name');
+console.log('age');
 
 
 //  JS let
@@ -98,8 +104,6 @@ const studentInfo={
     grade:"5.00",
    }
 console.log(studentInfo);
-
-
 
 // JS Object Properties
 
